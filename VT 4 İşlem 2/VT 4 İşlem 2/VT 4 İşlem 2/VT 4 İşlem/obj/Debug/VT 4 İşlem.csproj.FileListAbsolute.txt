@@ -1,0 +1,40 @@
+C:\Users\LENOVO\Desktop\VT 4 İşlem\VT 4 İşlem\bin\Debug\VT 4 İşlem.exe.config
+C:\Users\LENOVO\Desktop\VT 4 İşlem\VT 4 İşlem\bin\Debug\VT 4 İşlem.exe
+C:\Users\LENOVO\Desktop\VT 4 İşlem\VT 4 İşlem\bin\Debug\VT 4 İşlem.pdb
+C:\Users\LENOVO\Desktop\VT 4 İşlem\VT 4 İşlem\obj\Debug\VT_4_İşlem.Form1.resources
+C:\Users\LENOVO\Desktop\VT 4 İşlem\VT 4 İşlem\obj\Debug\VT_4_İşlem.Properties.Resources.resources
+C:\Users\LENOVO\Desktop\VT 4 İşlem\VT 4 İşlem\obj\Debug\VT 4 İşlem.csproj.GenerateResource.Cache
+C:\Users\LENOVO\Desktop\VT 4 İşlem\VT 4 İşlem\obj\Debug\VT 4 İşlem.exe
+C:\Users\LENOVO\Desktop\VT 4 İşlem\VT 4 İşlem\obj\Debug\VT 4 İşlem.pdb
+H:\HERSEY\DERS DÖNEMLERİ\2021-2022 BAHAR\GÖRSEL II\11. hafta\1.ö\VT 4 İşlem\VT 4 İşlem\bin\Debug\VT 4 İşlem.exe.config
+H:\HERSEY\DERS DÖNEMLERİ\2021-2022 BAHAR\GÖRSEL II\11. hafta\1.ö\VT 4 İşlem\VT 4 İşlem\obj\Debug\VT 4 İşlem.exe
+H:\HERSEY\DERS DÖNEMLERİ\2021-2022 BAHAR\GÖRSEL II\11. hafta\1.ö\VT 4 İşlem\VT 4 İşlem\obj\Debug\VT 4 İşlem.pdb
+C:\Users\LENOVO\Desktop\VT 4 İşlem\VT 4 İşlem\obj\Debug\VT 4 İşlem.csprojResolveAssemblyReference.cache
+C:\Users\LENOVO\Desktop\VT 4 İşlem - Kopya\VT 4 İşlem\bin\Debug\VT 4 İşlem.exe.config
+C:\Users\LENOVO\Desktop\VT 4 İşlem - Kopya\VT 4 İşlem\obj\Debug\VT 4 İşlem.exe
+C:\Users\LENOVO\Desktop\VT 4 İşlem - Kopya\VT 4 İşlem\obj\Debug\VT 4 İşlem.pdb
+C:\Users\LENOVO\Desktop\VT 4 İşlem - Kopya\VT 4 İşlem\obj\Debug\VT_4_İşlem.Form1.resources
+C:\Users\LENOVO\Desktop\VT 4 İşlem - Kopya\VT 4 İşlem\obj\Debug\VT_4_İşlem.Properties.Resources.resources
+C:\Users\LENOVO\Desktop\VT 4 İşlem - Kopya\VT 4 İşlem\obj\Debug\VT 4 İşlem.csproj.GenerateResource.Cache
+C:\Users\LENOVO\Desktop\VT 4 İşlem - Kopya\VT 4 İşlem\bin\Debug\VT 4 İşlem.exe
+C:\Users\LENOVO\Desktop\VT 4 İşlem - Kopya\VT 4 İşlem\bin\Debug\VT 4 İşlem.pdb
+C:\Users\LENOVO\Desktop\VT 4 İşlem 2\VT 4 İşlem\bin\Debug\VT 4 İşlem.exe.config
+C:\Users\LENOVO\Desktop\VT 4 İşlem 2\VT 4 İşlem\obj\Debug\VT 4 İşlem.exe
+C:\Users\LENOVO\Desktop\VT 4 İşlem 2\VT 4 İşlem\obj\Debug\VT 4 İşlem.pdb
+C:\Users\LENOVO\Desktop\VT 4 İşlem 2\VT 4 İşlem\obj\Debug\VT_4_İşlem.Form1.resources
+C:\Users\LENOVO\Desktop\VT 4 İşlem 2\VT 4 İşlem\obj\Debug\VT 4 İşlem.csproj.GenerateResource.Cache
+C:\Users\LENOVO\Desktop\VT 4 İşlem 2\VT 4 İşlem\bin\Debug\VT 4 İşlem.exe
+C:\Users\LENOVO\Desktop\VT 4 İşlem 2\VT 4 İşlem\bin\Debug\VT 4 İşlem.pdb
+C:\Users\LENOVO\Desktop\VT 4 İşlem 2\VT 4 İşlem\obj\Debug\VT_4_İşlem.Properties.Resources.resources
+C:\Users\LENOVO\Desktop\VT 4 İşlem 2\VT 4 İşlem\obj\Debug\VT 4 İşlem.csprojResolveAssemblyReference.cache
+C:\Users\Monster\Downloads\VT 4 İşlem 2\VT 4 İşlem 2\VT 4 İşlem\bin\Debug\VT 4 İşlem.exe.config
+C:\Users\Monster\Downloads\VT 4 İşlem 2\VT 4 İşlem 2\VT 4 İşlem\bin\Debug\VT 4 İşlem.exe
+C:\Users\Monster\Downloads\VT 4 İşlem 2\VT 4 İşlem 2\VT 4 İşlem\bin\Debug\VT 4 İşlem.pdb
+C:\Users\Monster\Downloads\VT 4 İşlem 2\VT 4 İşlem 2\VT 4 İşlem\obj\Debug\VT 4 İşlem.csproj.AssemblyReference.cache
+C:\Users\Monster\Downloads\VT 4 İşlem 2\VT 4 İşlem 2\VT 4 İşlem\obj\Debug\VT 4 İşlem.csproj.SuggestedBindingRedirects.cache
+C:\Users\Monster\Downloads\VT 4 İşlem 2\VT 4 İşlem 2\VT 4 İşlem\obj\Debug\VT_4_İşlem.Form1.resources
+C:\Users\Monster\Downloads\VT 4 İşlem 2\VT 4 İşlem 2\VT 4 İşlem\obj\Debug\VT_4_İşlem.Properties.Resources.resources
+C:\Users\Monster\Downloads\VT 4 İşlem 2\VT 4 İşlem 2\VT 4 İşlem\obj\Debug\VT 4 İşlem.csproj.GenerateResource.cache
+C:\Users\Monster\Downloads\VT 4 İşlem 2\VT 4 İşlem 2\VT 4 İşlem\obj\Debug\VT 4 İşlem.csproj.CoreCompileInputs.cache
+C:\Users\Monster\Downloads\VT 4 İşlem 2\VT 4 İşlem 2\VT 4 İşlem\obj\Debug\VT 4 İşlem.exe
+C:\Users\Monster\Downloads\VT 4 İşlem 2\VT 4 İşlem 2\VT 4 İşlem\obj\Debug\VT 4 İşlem.pdb
